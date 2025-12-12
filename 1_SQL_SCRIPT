@@ -1,0 +1,9 @@
+1.1_DDL_Schema.sql
+
+CREATE TABLE books
+CREATE TABLE borrowings
+CREATE TABLE categories
+CREATE TABLE inventory
+CREATE TABLE members
+Index statements (ALTER TABLE ... ADD PRIMARY KEY, etc.)
+Constraints (FOREIGN KEY relationships)
